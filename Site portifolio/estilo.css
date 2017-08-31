@@ -1,0 +1,68 @@
+.Cabecalho{
+	float:unset;
+}
+
+.menu{
+	float:left;
+	font-family: arial;
+	margin-top: 20px;
+}
+
+.menu a{
+	text-decoration: none;
+	color:#000000;
+}
+
+.conteudo h1{
+	font-family: Helvetica;
+}
+
+.conteudo h4{
+	font-family: Helvetica;
+}
+
+.conteudo{
+	float: unset;
+	font-size: 15px;
+	margin-top: 50px;
+}
+
+.conteudo a{
+	text-decoration: none;
+	color: #000000;
+}
+
+p{
+	font-family: Arial;
+}
+
+.botao a{
+	text-decoration: none;
+	color: #B2612A;
+	margin-right: 10px;
+}
+
+.botao{
+	margin: 10px 10px;
+}
+
+.Projeto{
+	margin-top: 20px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: 20px;
+	float:left;
+	height: 240px;
+	width:300px;
+	text-align: center;
+	border-bottom-width: 0.5px;
+	border-bottom-color: #B2612A;
+	border-bottom-style: solid;
+
+}
+
+.Projeto img{
+	height: 130px;
+	width: 200px;
+}
+
