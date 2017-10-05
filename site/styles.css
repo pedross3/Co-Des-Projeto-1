@@ -37,7 +37,6 @@ body{
 	/* Setting the default text color, size, page background and a font stack: */
 	color:#000000;
 	background-color:#FFFFFF;
-<<<<<<< HEAD
 	font-family:Helvetica, Arial
 	min-width: 600px;
 }
@@ -46,12 +45,6 @@ body p{
 	font-size: 20px;
 	text-align: justify;
 }
-=======
-	font-family:Helvetica, Arial;
-	min-width: 600px;
-}
-
->>>>>>> b130ee68b5596b0f4444c01cbe81ca2c88d4da0d
 /* Hyperlink Styles: */
 
 a, a:visited {
@@ -164,6 +157,7 @@ nav ul li{
 nav ul li a,
 nav ul li a:visited{
 	color:#000000;
+	font-family: Helvetica, Arial;
 	display:block;
 	float:left;
 	font-size:1.25em;
