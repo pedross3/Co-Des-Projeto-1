@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="135f42fa-e365-47eb-988e-a3eb5ca12722" name="Default" comment="" />
+    <list default="true" id="135f42fa-e365-47eb-988e-a3eb5ca12722" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mecan.html" afterPath="$PROJECT_DIR$/mecan.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mecatr.html" afterPath="$PROJECT_DIR$/mecatr.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="template_pedro.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="template_pedro.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template_pedro.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1566">
@@ -26,22 +29,22 @@
       <file leaf-file-name="mecan.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mecan.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="37" column="51" lean-forward="false" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="51" />
+            <state relative-caret-position="362">
+              <caret line="109" column="0" lean-forward="true" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
               <folding>
-                <marker date="1507430715558" expanded="true" signature="500:589" ph="..." />
+                <marker date="1507431763963" expanded="true" signature="500:589" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mecatr.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="mecatr.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mecatr.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="36" column="51" lean-forward="false" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="51" />
+            <state relative-caret-position="362">
+              <caret line="239" column="42" lean-forward="false" selection-start-line="239" selection-start-column="42" selection-end-line="239" selection-end-column="42" />
               <folding>
-                <marker date="1507430715636" expanded="true" signature="503:592" ph="..." />
+                <marker date="1507431802280" expanded="true" signature="503:592" ph="..." />
               </folding>
             </state>
           </provider>
@@ -81,10 +84,10 @@
       <list>
         <option value="$PROJECT_DIR$/Manoela Campos/template.html" />
         <option value="$PROJECT_DIR$/PIKACHU.html" />
-        <option value="$PROJECT_DIR$/mecatr.html" />
         <option value="$PROJECT_DIR$/comp.html" />
-        <option value="$PROJECT_DIR$/mecan.html" />
         <option value="$PROJECT_DIR$/template_pedro.html" />
+        <option value="$PROJECT_DIR$/mecan.html" />
+        <option value="$PROJECT_DIR$/mecatr.html" />
       </list>
     </option>
   </component>
@@ -225,26 +228,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mecan.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="37" column="51" lean-forward="false" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="51" />
-          <folding>
-            <marker date="1507430715558" expanded="true" signature="500:589" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mecatr.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="36" column="51" lean-forward="false" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="51" />
-          <folding>
-            <marker date="1507430715636" expanded="true" signature="503:592" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/comp.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="891">
@@ -261,6 +244,26 @@
           <caret line="58" column="46" lean-forward="false" selection-start-line="58" selection-start-column="46" selection-end-line="58" selection-end-column="46" />
           <folding>
             <marker date="1507431222773" expanded="true" signature="447:536" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mecan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="109" column="0" lean-forward="true" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+          <folding>
+            <marker date="1507431763963" expanded="true" signature="500:589" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mecatr.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="239" column="42" lean-forward="false" selection-start-line="239" selection-start-column="42" selection-end-line="239" selection-end-column="42" />
+          <folding>
+            <marker date="1507431802280" expanded="true" signature="503:592" ph="..." />
           </folding>
         </state>
       </provider>
