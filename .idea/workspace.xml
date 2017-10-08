@@ -14,46 +14,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="template_pedro.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template_pedro.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1566">
-              <caret line="58" column="46" lean-forward="false" selection-start-line="58" selection-start-column="46" selection-end-line="58" selection-end-column="46" />
-              <folding>
-                <marker date="1507431222773" expanded="true" signature="447:536" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mecan.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mecan.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="109" column="0" lean-forward="true" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
-              <folding>
-                <marker date="1507431763963" expanded="true" signature="500:589" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mecatr.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mecatr.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="239" column="42" lean-forward="false" selection-start-line="239" selection-start-column="42" selection-end-line="239" selection-end-column="42" />
-              <folding>
-                <marker date="1507431802280" expanded="true" signature="503:592" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="comp.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="comp.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/comp.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="891">
+            <state relative-caret-position="339">
               <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
               <folding>
                 <marker date="1507430715823" expanded="true" signature="505:594" ph="..." />
@@ -86,8 +50,8 @@
         <option value="$PROJECT_DIR$/PIKACHU.html" />
         <option value="$PROJECT_DIR$/comp.html" />
         <option value="$PROJECT_DIR$/template_pedro.html" />
-        <option value="$PROJECT_DIR$/mecan.html" />
         <option value="$PROJECT_DIR$/mecatr.html" />
+        <option value="$PROJECT_DIR$/mecan.html" />
       </list>
     </option>
   </component>
@@ -228,16 +192,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/comp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-          <folding>
-            <marker date="1507430715823" expanded="true" signature="505:594" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template_pedro.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1566">
@@ -250,10 +204,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mecan.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="109" column="0" lean-forward="true" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+        <state relative-caret-position="335">
+          <caret line="108" column="42" lean-forward="false" selection-start-line="108" selection-start-column="42" selection-end-line="108" selection-end-column="42" />
           <folding>
-            <marker date="1507431763963" expanded="true" signature="500:589" ph="..." />
+            <marker date="1507432044757" expanded="true" signature="500:589" ph="..." />
           </folding>
         </state>
       </provider>
@@ -261,9 +215,19 @@
     <entry file="file://$PROJECT_DIR$/mecatr.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="362">
-          <caret line="239" column="42" lean-forward="false" selection-start-line="239" selection-start-column="42" selection-end-line="239" selection-end-column="42" />
+          <caret line="239" column="42" lean-forward="true" selection-start-line="237" selection-start-column="32" selection-end-line="239" selection-end-column="42" />
           <folding>
-            <marker date="1507431802280" expanded="true" signature="503:592" ph="..." />
+            <marker date="1507431997226" expanded="true" signature="503:592" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <marker date="1507430715823" expanded="true" signature="505:594" ph="..." />
           </folding>
         </state>
       </provider>
